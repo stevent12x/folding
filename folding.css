@@ -22,7 +22,7 @@ body {
 }
 
 .text {
-    margin: 250px 250px;
+    margin: 100px 275px;
     text-align: center;
     display: inline-block;
     transition: .5s;
@@ -30,11 +30,11 @@ body {
 
 .text span {
     background: #fff;
-    width: 120px;
+    width: 80px;
     height: 120px;
     display: block;
     line-height: 120px;
-    font-family: ".SF NS Mono";
+    font-family: "Indie Flower", cursive;
     font-weight: bold;
     color: #a0a0a0;
     font-size: 40px;
